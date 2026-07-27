@@ -25,5 +25,7 @@ public class ApiResponse<T> {
     private LocalDateTime timestamp;
     
     private String kuchBhi;
+    
+    private String oneMoreAdded;
 
 }
