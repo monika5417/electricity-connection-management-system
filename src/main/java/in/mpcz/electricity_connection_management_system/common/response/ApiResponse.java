@@ -27,5 +27,7 @@ public class ApiResponse<T> {
     private String kuchBhi;
     
     private String oneMoreAdded;
+    
+    private String secondThingAdded;
 
 }
