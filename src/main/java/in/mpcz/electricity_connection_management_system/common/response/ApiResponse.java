@@ -30,4 +30,6 @@ public class ApiResponse<T> {
     
     private String secondThingAdded;
 
+    
+    private String thirdChange;
 }
