@@ -22,16 +22,5 @@ public class ApiResponse<T> {
 
     private T data;
 
-    private LocalDateTime timestamp;
-    
-    private String kuchBhi;
-    
-    private String oneMoreAdded;
-    
-    private String secondThingAdded;
-
-    
-    private String thirdChange;
-    
-    
+    private LocalDateTime timestamp;    
 }
